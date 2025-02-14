@@ -19,7 +19,7 @@ A [Ulauncher](https://ulauncher.io/) extension to search your [KeePassXC](https:
 Open Ulauncher preferences window -> Extensions -> "Add extension" and paste the following url:
 
 ```
-https://github.com/pbkhrv/ulauncher-keepassxc
+https://github.com/abidibo/ulauncher-keepassxc
 ```
 
 ## Configuration
